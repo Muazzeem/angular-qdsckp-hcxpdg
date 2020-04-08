@@ -1,3 +1,1 @@
-# angular-qdsckp-hcxpdg
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-qdsckp-hcxpdg)
+[![Run on Repl.it](https://repl.it/badge/github/Muazzeem/angular-qdsckp-hcxpdg)](https://repl.it/github/Muazzeem/angular-qdsckp-hcxpdg)
